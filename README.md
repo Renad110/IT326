@@ -16,5 +16,5 @@ We chose this dataset because it is real-world, large-scale (over 40,000 records
 ## Team Members  
 - Wajd Alrasheed (Leader)  
 - Renad Alqahtani 
-- Amal Albqmi  
+- Amal Albogami  
 - Jood Mutrid 
